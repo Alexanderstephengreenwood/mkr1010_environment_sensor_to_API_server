@@ -1,4 +1,4 @@
-# mkr1010_environment_sensor_to_API_server
+# Arduino mkr1010 Environment Sensor to API server
 This is a project to use an Arduino mkr1010 with a BME 085 and a TSL 2561 sensors to post environment data to a secured API server.
 
 The Arduino mkr1010 is programmed to make GET and POST over TLS using WiFi to a node js Express API server storing the data on MongoDB.
